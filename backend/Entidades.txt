@@ -1,0 +1,16 @@
+Entidade é tudo que represanta algo que será salvo no banco de dados
+
+ONG;
+CASO (insident)
+
+FUNCIONALIDADES:
+o que cada entidade vai poder fazer no sistema ou banco de dados
+
+LOGIN DE ONG;
+LOGOUT DE ONG;
+CADASTRO DE ONG
+CADASTRAR NOVOS CASOS
+DELETAR CASOS
+LISTAR CASOS ESPECÍFICOS DE UMA ONG
+LISTAR TODOS OS CASOS
+ENTRAR EM CONTATO COM A ONG
