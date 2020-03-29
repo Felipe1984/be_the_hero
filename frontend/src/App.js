@@ -1,28 +1,24 @@
+//import React, {useState} from 'react';
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+
+import './global.css';
+
+import Routes from './routes';
 
 function App() {
+  //let [counter, setCounter] = useState(0);
+  ////Retorna um array com duas posições:
+  ///**
+  // * Array [valor, funcaoDeAtualizacao]
+  // */
+//
+  //function increment () {
+  //  setCounter(counter + 1);
+  //}
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hello OmnStack!
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Routes />
   );
 }
 
 export default App;
-//use npx create-react-app <nome_do_projeto> para criar um app reactjs
-

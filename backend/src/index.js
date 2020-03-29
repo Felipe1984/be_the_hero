@@ -58,3 +58,6 @@ app.listen(3333);
  *      ALGUMAS AÇÕES CASO NECESSÁRIO
  *      PRIMEIRA MIGRATION: npx knex migrate:make create_ongs
  */
+/**
+ * REACT -> INSTALAÇÃO -> npx create-react-app frontend
+ */
